@@ -1,6 +1,6 @@
-# git-course
+# Git-Course
+
 Basic git course study design:
-link [https://www.linkedin.com/in/josiel-ernane-beserra-75b81094(https://www.linkedin.com/in/josiel-ernane-beserra-75b81094)]
 
 This is a test repository to teach how Git works.
 
