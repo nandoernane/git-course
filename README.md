@@ -9,38 +9,59 @@ Learn more at [https://www.linkedin.com/in/josiel-ernane-beserra-75b81094](https
 Command Trainning:
 
 Basic settings:
+
 git config --global user.name
+
 git config --global user.email
+
 git config --global core.editor
 
 See settings:
+
 git config user.name/user.email/core.editor
+
 git config --list
 
 practical:
+
 git status
+
 git add file name
+
 git commit -am ""
 
 Seeing Logs:
+
 git log
+
 git log --decorate
+
 git log --author="author"
+
 git shortlog
+
 git shortlog -sn
+
 git log --graph
 
 See changes:
+
 git diff
+
 git diff --name-only
+
 git show hash
 
 undoing:
 
 git checkout
+
 git reset HEAD file name
+
 git reset --soft hash
+
 git reset --mixed hash
+
 git reset --hard hash
 
 Remote repository:
@@ -50,20 +71,27 @@ Starting:
 git init
 
 Calling repository:
+
 git remote add user/local
+
 git push -u go/black
 
 Seeing:
+
 git remote
+
 git remote -v
 
 Cloning:
+
 git clone localorigem pastadestino
 
 Seeing information:
+
 more file name.
 
 Sending changes:
+
 git push origin master
 
 
