@@ -1,0 +1,9 @@
+#Arquivos e pastas que não serão submetidas
+
+#gulp
+node_modules/
+
+#bower
+assets/
+test/
+tests/

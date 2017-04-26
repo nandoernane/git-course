@@ -1,0 +1,20 @@
+{
+  "name": "treinning",
+  "description": "treinando",
+  "main": "index.js",
+  "authors": [
+    "Josiel Ernane"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "praticando"
+  ],
+  "homepage": "https://github.com/nandoernane/git-course",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
